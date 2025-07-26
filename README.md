@@ -1,4 +1,4 @@
-# Smart Fitness Tracker (by Ali K)
+# Smart Fitness Tracker using OpenCV 
 
 ## Overview
 This tracker uses computer vision and pose detection (via MediaPipe) to evaluate common workouts: curls, push-ups, and squats.
