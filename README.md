@@ -30,3 +30,12 @@ This tracker uses computer vision and pose detection (via MediaPipe) to evaluate
 - **CSV logs** with time, mode, rep count, and bad form count.
 - **Tips CSV** for feedback history.
 - **Recorded video** (AVI) of the session.
+
+## More Info: 
+
+If you would like to see how the app is setup, how to use it, and various examples of me using the app, check out the informational video here: 
+
+[![Here](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=n3DDxnHVEIg>)
+
+[<img  src="https://github.com/user-attachments/assets/7c19ddaa-909c-46ba-a3b4-0540592b73bd" width="600" height="300"
+/>](https://www.youtube.com/embed/<https://www.youtube.com/watch?v=n3DDxnHVEIg>)
